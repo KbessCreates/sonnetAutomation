@@ -1,2 +1,5 @@
-# sonnetAutomation
-Sends sonnets to your recipient of choice every morning. Neat anniversary project I was working on, but I don't mind if you steal the credit.
+# Sonnet Automation
+
+Sends a sonnet based on a corpus of work to desired recipient. It'll use either iMessage or Email for those not on MacOS.
+
+## Instructions
